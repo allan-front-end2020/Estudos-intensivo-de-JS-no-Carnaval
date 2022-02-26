@@ -11,4 +11,4 @@
  }
  if (idade > 60) {
      alert('Seus dias estão contados aproveite o maximo que puder')
- }   alert('provavelmente vc já morreu')
+ }
