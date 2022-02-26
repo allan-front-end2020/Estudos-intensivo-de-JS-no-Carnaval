@@ -28,3 +28,16 @@ document.write(' A subtraçao ' + num1 + ' mais ' + num2 + ' e  : ' + (num1 - nu
 document.write(' A multiplicao ' + num1 + ' mais ' + num2 + ' e  : ' + (num1 * num2) + ' <br/>')
 document.write(' A divisao ' + num1 + ' mais ' + num2 + ' e  : ' + (num1 / num2) + ' <br/>')
 document.write(' O resto da divisao ' + num1 + ' mais ' + num2 + ' e  : ' + (num1 % num2) + ' <br/>')
+
+
+/*==========================================*/
+var teste = 10
+
+teste += 5
+document.write(teste)
+teste -= 5
+document.write(teste)
+teste *= 5
+document.write(teste)
+teste /= 5
+document.write(teste)
