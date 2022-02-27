@@ -1,13 +1,20 @@
- function tamanhoTerreno(largura, comprimento) {
+/*function tamanhoTerreno(largura, comprimento) {
+    var largura = prompt('digite a largura do terreno: ')
+    var comprimento = prompt('Digite a largura do terreno: ')
+
+    var area = largura * comprimento
+
+    return area
+}
+
+document.write(' O tamanho do terreno e ' + tamanhoTerreno() + ' metros quadrados')
 
 
-     var largura = prompt('digite a largura do terreno: ')
-     var comprimento = prompt('Digite a largura do terreno: ')
+*/
+function soma(a, b) {
+
+    return a + b
+}
 
 
-     var area = largura * comprimento
-
-     return area
- }
-
- document.write(' O tamanho do terreno e ' + tamanhoTerreno() + ' metros quadrados')
+console.log(soma(2, 30))
