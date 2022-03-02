@@ -1,0 +1,33 @@
+.btn-1 {
+    background: red;
+    border: solid black 3px;
+    margin: 14px;
+    width: 200px;
+    height: 150px;
+    border-radius: 12px;
+}
+
+.btn-2 {
+    background: blue;
+    border: solid black 3px;
+    margin: 14px;
+    width: 200px;
+    height: 150px;
+    border-radius: 12px;
+}
+
+.btn-3 {
+    background: green;
+    border: solid black 3px;
+    margin: 14px;
+    width: 200px;
+    height: 150px;
+    border-radius: 12px;
+}
+
+.container {
+    border: solid black 2px;
+    width: 100px;
+    height: 100px;
+    margin: 60px;
+}
